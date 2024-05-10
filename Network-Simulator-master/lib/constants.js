@@ -1,0 +1,16 @@
+exports.ANIMATION_DURATION = 2000;
+exports.BUFFER = 10;
+exports.LOCAL_SAVE_KEY = "projects";
+exports.EDGE_COLOR = "#212121";
+exports.ENQUEUED = "ENQUEUED";
+exports.FLOOD = "flood";
+exports.NODE_RADIUS = 50;
+exports.NODE_BACKGROUND = "#eeeeee";
+exports.PACKET_COLOR = "#ffd54f";
+exports.PACKET_RADIUS = 25;
+exports.PACKET_TIME_OFFSET = 400;
+exports.RANDOM_SEED = 4.5;
+exports.REPLY = "reply";
+exports.OFFSET_COEFF_1 = 40;
+exports.OFFSET_COEFF_2 = 30;
+exports.OFFSET_COEFF_3 = 0.72;
